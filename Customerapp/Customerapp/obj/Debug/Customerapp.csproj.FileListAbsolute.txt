@@ -1,0 +1,12 @@
+c:\users\shanta\documents\visual studio 2013\Projects\Customerapp\Customerapp\bin\Debug\Customerapp.exe.config
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\bin\Debug\Customerapp.exe
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\bin\Debug\Customerapp.pdb
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.csprojResolveAssemblyReference.cache
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.Form1.resources
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.Properties.Resources.resources
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.csproj.GenerateResource.Cache
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.exe
+C:\Users\Shanta\Documents\Visual Studio 2013\Projects\Customerapp\Customerapp\obj\Debug\Customerapp.pdb
+I:\Customerapp\Customerapp\bin\Debug\Customerapp.exe.config
+I:\Customerapp\Customerapp\obj\Debug\Customerapp.exe
+I:\Customerapp\Customerapp\obj\Debug\Customerapp.pdb
