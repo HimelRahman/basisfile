@@ -1,0 +1,9 @@
+E:\Address\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.exe.config
+E:\Address\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.exe
+E:\Address\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.pdb
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.csprojResolveAssemblyReference.cache
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.Form1.resources
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.Properties.Resources.resources
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.csproj.GenerateResource.Cache
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.exe
+E:\Address\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.pdb
