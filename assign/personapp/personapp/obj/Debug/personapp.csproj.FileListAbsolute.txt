@@ -1,0 +1,9 @@
+C:\Users\PC21\Desktop\ex\personapp\personapp\bin\Debug\personapp.exe.config
+C:\Users\PC21\Desktop\ex\personapp\personapp\bin\Debug\personapp.exe
+C:\Users\PC21\Desktop\ex\personapp\personapp\bin\Debug\personapp.pdb
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.PersonUIForm.resources
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.Properties.Resources.resources
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.exe
+C:\Users\PC21\Desktop\ex\personapp\personapp\obj\Debug\personapp.pdb
